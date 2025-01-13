@@ -1,0 +1,1 @@
+This is a repository for scripts used in analyzing harbour porpoise (Phocoena phocoena) amplicon sequencing data. These scripts were executed either on high performance computing resources of Potsdam University or locally. 
